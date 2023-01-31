@@ -40,7 +40,8 @@ main section .top {
 }
 main section h3 {
     font-size:55px;
-    margin-top:50px;}
+    margin-top:50px;
+color:rgb(253, 176, 33)}
 main section p {
     font-size:23px;
     margin-top:10px;
@@ -56,15 +57,15 @@ main .middle {
     align-items: center;
     gap:50px;
 }
-main section .card-panel {
+main section .col {
     width:350px;
     height:350px;
     justify-content: center;
     align-items: center;
     
 }
-.card-panel a {
-    transform: scale(2);
+.col a {
+    transform: scale(2.5);
 }
 footer .link1 {margin-left:15px;}
 footer .link2 {
